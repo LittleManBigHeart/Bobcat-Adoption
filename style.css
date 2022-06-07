@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+
 body {
     background-color: rgb(134, 194, 247);
     font-family: 'Times New Roman', Times, serif;
@@ -40,11 +41,16 @@ body p {
     border: 2px solid #444;
     text-align: center;
     padding: 10px;
-    width: 850px;
+    width: 800px;
     margin-top: 20px
 }
 
 input, button {
     padding: 10px;
     font-size: 17px;
+}
+
+#pictured-bobcat {
+    height: 525px;
+    width: 800px;
 }
